@@ -1,7 +1,8 @@
 <h1 align="left">Hi there👋</h1>
-<h3 align="center">My name is Artem Chekolovets. I am a react-native developer. Have a master's degree in Physics. Interested in AI, ML and math.</h3>
+<p align="left">My name is Artem Chekolovets. I am a react-native developer with a master's degree in Physics. Interested in AI, ML and math.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chekolovec" alt="chekolovec" /></a> </p>
+:pushpin: Budva, Montenegro
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
