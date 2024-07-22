@@ -1,8 +1,7 @@
 <h1 align="left">Hi there👋</h1>
-<p align="left">My name is Artem Chekolovets. I am a react-native developer with a master's degree in Physics. Interested in AI, ML and math.</p>
+<p align="left">My name is Artem Chekolovets. I am a frontend developer with a master's degree in Physics. Interested in AI, ML and math.</p>
 
 :pushpin: Budva, Montenegro
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
